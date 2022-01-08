@@ -1,2 +1,3 @@
-# eic-spack-cvmfs-environments
-Spack environments for the Electron Ion Collider
+# EIC Spack Environments
+
+This repository contains [Spack](https://spack.readthedocs.io/en/latest/index.html) environments for the EIC.
